@@ -2,8 +2,8 @@
     "hotSpotDebug": true,
     "hotSpots": [
         {
-             "pitch": -6.25,
-             "yaw": 57.43,
+             "pitch": -3,
+             "yaw": 28,
              "type": "info",
              "text": "Baltimore Museum of Art",
              "URL": "https://artbma.org/"
