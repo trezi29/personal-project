@@ -1,25 +1,11 @@
 {
-    "type": "equirectangular",
-    "panorama": "http://i.imgur.com/STCmIZS.jpg",
     "hotSpots": [
         {
-             "pitch": 14.1,
-             "yaw": 1.5,
+             "pitch": -3,
+             "yaw": 28,
              "type": "info",
-             "text": "Baltimore Museum of Art",
-             "URL": "https://artbma.org/"
-        },
-        {
-             "pitch": -9.4,
-             "yaw": 222.6,
-             "type": "info",
-             "text": "Art Museum Drive"
-        },
-        {
-             "pitch": -0.9,
-             "yaw": 144.4,
-             "type": "info",
-             "text": "North Charles Street"
+             "text": "TAG Innovation School",
+             "URL": "https://innovationschool.talentgarden.org/"
         }
     ]
 }
