@@ -1,12 +1,12 @@
 {
-    "hotSpotDebug": true,
+    //"hotSpotDebug": true,
     "hotSpots": [
         {
              "pitch": -3,
              "yaw": 28,
              "type": "info",
-             "text": "Baltimore Museum of Art",
-             "URL": "https://artbma.org/"
+             "text": "TAG Innovation School",
+             "URL": "https://innovationschool.talentgarden.org/"
         },
         {
              "pitch": -9.4,
