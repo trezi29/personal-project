@@ -3,6 +3,7 @@
         {
              "pitch": -3,
              "yaw": 28,
+             "cssClass": "custom-hotspot",
              "type": "info",
              "text": "TAG Innovation School",
              "URL": "https://innovationschool.talentgarden.org/"
